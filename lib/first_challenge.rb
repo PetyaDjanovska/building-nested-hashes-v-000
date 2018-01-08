@@ -36,11 +36,18 @@ def first_challenge
          name: "Lady Capulet",
          age: "51"
        },
-       hero: {
+       heroine: {
          name: "Juliet",
          age: "15",
          status: "alive"
-       }
+       },
+       heroine_friends: [
+         {
+           name: "Steven",
+           age: "30",
+           attitude: "confused"
+         }
+       ]
 
      }
    }
